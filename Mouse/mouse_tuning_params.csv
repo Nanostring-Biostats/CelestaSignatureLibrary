@@ -1,0 +1,13 @@
+﻿celltype,high_expression_threshold_anchor,low_expression_threshold_anchor,high_expression_threshold_index,low_expression_threshold_index
+Cholinergic,0.7,0.9,0.5,1
+Oligodendrocyte,0.7,0.9,0.5,1
+Neuroepithelia,0.7,0.9,0.5,1
+Vasculature,0.7,0.9,0.5,1
+Astrocyte,0.85,0.9,0.75,1
+Microglia,0.8,0.9,0.7,1
+GABAergic,0.7,0.9,0.5,1
+Serotonergic,0.7,0.9,0.5,1
+Motor,0.7,0.9,0.5,1
+Dopaminergic,0.7,0.9,0.5,1
+Glutamatergic,0.7,0.9,0.5,1
+Purkinje,0.7,0.9,0.5,1

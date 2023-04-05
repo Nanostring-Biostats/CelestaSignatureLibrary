@@ -1,0 +1,17 @@
+﻿celltype,high_expression_threshold_anchor,low_expression_threshold_anchor,high_expression_threshold_index,low_expression_threshold_index
+immune,0.7,0.9,0.5,1
+endothelial,0.7,0.9,0.5,1
+epithelial_tumor,0.7,0.9,0.5,1
+sma_stroma,0.7,0.9,0.5,1
+fn1_stroma,0.7,0.9,0.5,1
+tcell,0.7,0.9,0.5,1
+bcell,0.7,0.9,0.5,1
+plasma,0.7,0.9,0.5,1
+pDCs,0.7,0.9,0.5,1
+cDCs,0.7,0.9,0.5,1
+macrophages,0.7,0.9,0.5,1
+monocytes,0.7,0.9,0.5,1
+cd15_neutrophils,0.7,0.9,0.5,1
+nk_cell,0.7,0.9,0.5,1
+cd8_cytotoxic_tcell,0.7,0.9,0.5,1
+cd4_helper_tcell,0.7,0.9,0.5,1
