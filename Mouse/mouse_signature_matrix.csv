@@ -1,4 +1,4 @@
-celltype,Lineage_level,ChAT,SOX10,Nestin,Laminin,Channel-GFAP,Channel-IBA1,GAD67,5-HTT,Isl1,Tyrosine Hydroxylase,VGlut2,Calbindin
+celltype,Lineage_level,ChAT,SOX10,Nestin,Laminin,Channel-GFAP,Channel-Iba1,GAD67,5-HTT,Isl1,Tyrosine Hydroxylase,VGlut2,Calbindin
 Cholinergic,1_0_1,1,0,0,0,0,0,0,0,0,0,0,0
 Oligodendrocyte,1_0_2,0,1,0,0,0,0,0,0,0,0,0,0
 Neuroepithelia,1_0_3,0,0,1,0,0,0,0,0,0,0,0,0
